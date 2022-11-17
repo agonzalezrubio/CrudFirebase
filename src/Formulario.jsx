@@ -200,7 +200,7 @@ const Formulario = () => {
 
     return (
         <div className='container-xxl mt-5'>
-            <h1 className='text-center'>Directorio Persona - REACT-FIREBASE xD</h1>
+            <h1 className='text-center'>Directorio Personas</h1>
             <hr />
             <div className='row'>
                 <div className="col-8">
